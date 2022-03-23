@@ -37,7 +37,6 @@ namespace TemaConvexHull
                 points.Add(p);
                 g.DrawEllipse(bluePen, p.X, p.Y, 2, 2);
             }
-            // test
             #endregion
 
 
